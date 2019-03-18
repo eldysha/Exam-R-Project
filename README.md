@@ -1,3 +1,4 @@
 # Exam-R-Project
-First  project in R for the Statistical exam
-Analyze the data of a equine clinic to find patterns in diseases and vital parameters
+MY First project in R
+Exam of foundation of probability and statistics
+Focus on Analyze the data of an equine clinic to find patterns in diseases and vital parameters
